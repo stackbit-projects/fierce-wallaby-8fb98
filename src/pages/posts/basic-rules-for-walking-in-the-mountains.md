@@ -6,6 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2019-04-09'
 template: post
+hide_header: true
 ---
 
 ![Hiking](/images/2.jpg)
