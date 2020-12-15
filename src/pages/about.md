@@ -4,13 +4,10 @@ subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 template: page
 ---
+An electrical engineer is someone who applies the physics and mathematics of electricity, electromagnetism and electronics to design and develop new electrical equipment and systems, to solve problems and to test equipment. The emergence of the modern age is noted by the introduction of electricity to homes, businesses and industry, all of which were made possible by electrical engineers.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+>Electrical science has revealed to us the true nature of light, has provided us with innumerable appliances and instruments of precision, and has thereby vastly added to the exactness of our knowledge. Nikola Tesla. <cite>Neil Gaiman</cite>
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Electrical engineers work on a variety of projects, such as computers, robots, cell phones, cards, radars, navigation systems, wiring and lighting in buildings and other kinds of electrical systems. More and more, electrical engineers are relying on computer-aided design (CAD) systems for the creation of schematics and to lay out circuits, and they use computers to simulate how electrical devices and systems will function.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Thank You for reading!
