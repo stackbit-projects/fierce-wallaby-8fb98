@@ -1,6 +1,6 @@
 ---
 title: "Electrical Engineers \t"
-subtitle: This is a short page about me and my work
+subtitle: "This is a short page about electrical engineers and their work \t"
 img_path: images/about.jpg
 template: page
 ---
